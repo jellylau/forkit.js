@@ -27,6 +27,7 @@
 			ribbonTag: null,
 			curtain: null,
 			closeButton: null
+			hello: null
 		},
 
 		// The current state of the ribbon
